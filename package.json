@@ -1,0 +1,25 @@
+{
+  "name": "kirpichik-vue",
+  "version": "1.0.0",
+  "description": "Single file vue-component template for kirpichik js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirpichikjs/kirpichik-vue.git"
+  },
+  "keywords": [
+    "kirpichik",
+    "scaffolding",
+    "vue",
+    "vue-component"
+  ],
+  "author": "lamartire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirpichikjs/kirpichik-vue/issues"
+  },
+  "homepage": "https://github.com/kirpichikjs/kirpichik-vue#readme"
+}
