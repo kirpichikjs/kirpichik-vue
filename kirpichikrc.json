@@ -1,4 +1,9 @@
 {
   "name": "vue",
-  "description": "Single file vue-component"
+  "description": "Single file vue-component",
+  "options": {
+    "pug": {
+      "description": ""
+    }
+  }
 }

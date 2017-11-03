@@ -1,12 +1,12 @@
 <template>
-  <div class="{{ __NAME__ | kebab }}">
+  <div class="{{kebab __NAME__}}">
 
   </div>
 </template>
 
 <script>
   export default {
-    name: '{{ __NAME__ }}',
+    name: '{{__NAME__}}',
 
     data() {
       return {
@@ -17,7 +17,7 @@
 </script>
 
 <style>
-  .{{ __NAME__ | kebab }} {
+  .{{kebab __NAME__}} {
     display: block;
   }
 </style>
