@@ -1,9 +1,9 @@
 {
   "name": "vue",
   "description": "Single file vue-component",
+  "saveOriginNames": true,
   "options": {
-    "pug": {
-      "description": ""
-    }
+    "pug": "Using pug template engine",
+    "styl": "Using stylus lang in styles"
   }
 }
