@@ -1,5 +1,5 @@
 {
-  "name": "kirpichik-vue",
+  "name": "@kirpichik/kirpichik-vue",
   "version": "1.0.0",
   "description": "Single file vue-component template for kirpichik js",
   "main": "index.js",
