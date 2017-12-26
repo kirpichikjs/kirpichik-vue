@@ -1,9 +1,0 @@
-{
-  "name": "vue",
-  "description": "Single file vue-component",
-  "namesIngorePatterns": ["index"],
-  "options": {
-    "pug": "Using pug template engine",
-    "styl": "Using stylus lang in styles"
-  }
-}

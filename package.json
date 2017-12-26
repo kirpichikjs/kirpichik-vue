@@ -1,10 +1,27 @@
 {
-  "name": "@kirpichik/kirpichik-vue",
-  "version": "1.0.1",
+  "name": "kirpichik-vue",
+  "version": "1.0.0",
   "description": "Vue templates sandbox",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "kirpichik": {
+    "name": "vue",
+    "description": "Single file vue-component",
+    "namesIngorePatterns": ["index"],
+    "defaultSet": ["html"],
+    "options": {
+      "style": {
+        "description": "Styles preprocessor"
+      },
+      "scoped": {
+        "description": "Using scoped styles"
+      },
+      "module": {
+        "description": "Using css-modules"
+      }
+    }
   },
   "repository": {
     "type": "git",
