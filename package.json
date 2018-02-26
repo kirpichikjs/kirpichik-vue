@@ -1,7 +1,7 @@
 {
   "name": "kirpichik-vue",
   "version": "1.0.0",
-  "description": "Vue templates sandbox",
+  "description": "Vue singlefile component template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,13 +25,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kirpichikjs/kirpichik-vue.git"
+    "url": "git+https://github.com/lamartire/kirpichik-vue.git"
   },
   "keywords": [],
   "author": "lamartire",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kirpichikjs/kirpichik-vue/issues"
+    "url": "https://github.com/lamartire/kirpichik-vue/issues"
   },
-  "homepage": "https://github.com/kirpichikjs/kirpichik-vue#readme"
+  "homepage": "https://github.com/lamartire/kirpichik-vue#readme"
 }
